@@ -14,7 +14,7 @@
         <input class="form-control"  style="font-style: italic" placeholder="Password..." type="password" name="" id="">
       </div>
       <div class="forget-password">
-        <a href="#">Register</a>
+        <a href="/dangky">Register</a>
         <a href="#">Forget your password?</a>
       </div>
       <button type="submit">Login</button>
@@ -49,6 +49,10 @@
   transition: all 0.3s ease;
   width: 100%;
 }
+.login-form button:active{
+  transform: translateY(-5px) ;
+}
+
 
 .login-form h1 {
   margin-bottom: 20px;

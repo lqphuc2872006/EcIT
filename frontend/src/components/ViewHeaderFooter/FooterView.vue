@@ -13,7 +13,7 @@
 <style scoped>
   .foter{
     background-color: #242424;
-    width: 100vw;
+    width: 100%;
     height: 63.5px;
   }
   .foter label{

@@ -7,7 +7,7 @@
     <ul>
       <li><a href="/home">Trang Chủ</a></li>
       <li><a href="">Giới Thiệu</a></li>
-      <li><a href="">Nhân Viên</a></li>
+      <li><a href="/nhanvien">Nhân Viên</a></li>
       <li><a class="login-link" href="/dangnhap">Đăng nhập</a></li>
     </ul>
   </div>
@@ -15,7 +15,7 @@
 
 <style scoped>
 .header {
-  width: 100vw;
+  width: 100%;
   background-color: #242424;
   padding: 0 30px;
   box-sizing: border-box;
